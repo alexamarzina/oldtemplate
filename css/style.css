@@ -33,18 +33,18 @@ li {
 
 li a {
   display: inline-block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: black;
+  background-color: white;
 }
 
 .active {
-  background-color: white;
+  background-color: black;
 }
 
 
