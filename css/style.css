@@ -41,6 +41,9 @@ li a {
 
 li a:hover {
   background-color: pink;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
 }
 
 .footer {
@@ -51,6 +54,5 @@ li a:hover {
   display: table-row;
   height: 80px;
   background-color: #333;
-  color: white;
   text-align: center;
 }
