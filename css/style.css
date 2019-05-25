@@ -3,7 +3,7 @@ body {
    }
 
 .nav {
-   padding: 0px;
+   padding: none;
  }
 
 h1 {
@@ -56,12 +56,10 @@ li a:hover {
 
 .footer {
   position: fixed;
-  left: 0;
-  bottom: 0;
   width: 100%;
   display: table-row;
-  height: 80px;
+  height: 70px;
   background-color: #333;
   text-align: center;
-  text-color: white;
+  color: white;
 }
