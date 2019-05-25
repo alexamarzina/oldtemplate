@@ -2,10 +2,6 @@ body {
    padding: 10px;
    }
 
-.nav {
-   padding: 0px;
- }
-
 h1 {
    margin-bottom: 35px;
    margin-top: 25px;
@@ -57,6 +53,8 @@ li a:hover {
 .footer {
   position: fixed;
   width: 100%;
+  left: 0;
+  bottom: 0;
   display: table-row;
   height: 70px;
   background-color: #333;
